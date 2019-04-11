@@ -1,2 +1,2 @@
 # BlockchainExample
-This is a school Project 
+This is a school Project for blockchain code example
